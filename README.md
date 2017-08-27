@@ -14,3 +14,5 @@ which draws from:
 * [CEDAR requirements for describing library resources using BIBFRAME
 ](https://docs.google.com/document/d/1MifYiVfeenw2tlK67GT-9F81rujN6bKe_HXBjOgRztA/)
 * [CEDAR Template Creation Scenario from LD4P](https://docs.google.com/document/d/1Qs-t3_BN5-Ktspfb7A51a_Hj-rZX9P0T9T29TpJZkCM/)
+
+<kbd>[issues from this doc](https://github.com/LD4P/biblio-cedar/issues?q=label%3Aquestion)</kbd>
