@@ -9,16 +9,16 @@ Many requirements are from earlier requirements-gathering efforts.
 [CEDAR/BioPortal LD4 Wish List](https://docs.google.com/document/d/1_zJCqC0T6ygVDtdEYWeTdT3H9vutYCfM1wU4-D_uxh0/) <kbd>[issues from this doc](https://waffle.io/LD4P/requirements?label=Source:%20Wish%20List)</kbd>
 
 #### Ontology repository requirements pre- August 2017
-* [Why Biblioportal?](https://docs.google.com/document/d/1zi5ReIvu5LSPfVoFDea-ycdV0U_MAnoDwhqabXNp--Q/) <kbd>[issues from this doc](https://github.com/LD4P/biblio-cedar/issues?q=label%3Aquestion)</kbd>
+* [Why Biblioportal?](https://docs.google.com/document/d/1zi5ReIvu5LSPfVoFDea-ycdV0U_MAnoDwhqabXNp--Q/) <kbd>[issues from this doc](https://waffle.io/LD4P/requirements?label=Source:%20Why%20Biblio)</kbd>
 
-* [Intro to BioPortal conference call](https://docs.google.com/document/d/1mRYghrVjiYiwdqXqE1mSOC3j254LRvDFtQwovZE0KvU/)  <kbd>[issues from this doc](https://github.com/LD4P/biblio-cedar/issues?q=label%3Aquestion)</kbd>
+* [Intro to BioPortal conference call](https://docs.google.com/document/d/1mRYghrVjiYiwdqXqE1mSOC3j254LRvDFtQwovZE0KvU/)
 
 * [Welcome to your BioPortal](https://drive.google.com/open?id=0BzK6HW5qGSy7YnA1ZjRDM2xtZW8) *description of BioPortal’s capabilities for domains beyond biomedicine, written by BioPortal team for potential users*
 
 #### Linked data editor requirements pre- August 2017
 * [CEDAR requirements for describing library resources using BIBFRAME
-](https://docs.google.com/document/d/1MifYiVfeenw2tlK67GT-9F81rujN6bKe_HXBjOgRztA/)  <kbd>[issues from this doc](https://github.com/LD4P/biblio-cedar/issues?q=label%3Aquestion)</kbd>
+](https://docs.google.com/document/d/1MifYiVfeenw2tlK67GT-9F81rujN6bKe_HXBjOgRztA/)  <kbd>[issues from this doc](https://waffle.io/LD4P/requirements?label=Source:%20BF%20and%20CEDAR)</kbd>
 
-* [CEDAR Template Creation Scenario from LD4P](https://docs.google.com/document/d/1Qs-t3_BN5-Ktspfb7A51a_Hj-rZX9P0T9T29TpJZkCM/)  <kbd>[issues from this doc](https://github.com/LD4P/biblio-cedar/issues?q=label%3Aquestion)</kbd>
+* [CEDAR Template Creation Scenario from LD4P](https://docs.google.com/document/d/1Qs-t3_BN5-Ktspfb7A51a_Hj-rZX9P0T9T29TpJZkCM/)  <kbd>[issues from this doc](https://waffle.io/LD4P/requirements?label=Source:%20Template%20Scenario)</kbd>
 
 
