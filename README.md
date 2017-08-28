@@ -6,7 +6,7 @@ Source of requirements:
 Many requirements are from earlier requirements-gathering efforts. 
 
 #### Wish list August 2017
-[CEDAR/BioPortal LD4 Wish List](https://docs.google.com/document/d/1_zJCqC0T6ygVDtdEYWeTdT3H9vutYCfM1wU4-D_uxh0/) <kbd>[issues from this doc](https://github.com/LD4P/requirements/labels/Source%3A%20Wish%20List)</kbd>
+[CEDAR/BioPortal LD4 Wish List](https://docs.google.com/document/d/1_zJCqC0T6ygVDtdEYWeTdT3H9vutYCfM1wU4-D_uxh0/) <kbd>[issues from this doc](https://waffle.io/LD4P/requirements?label=Source:%20Wish%20List)</kbd>
 
 #### Ontology repository requirements pre- August 2017
 * [Why Biblioportal?](https://docs.google.com/document/d/1zi5ReIvu5LSPfVoFDea-ycdV0U_MAnoDwhqabXNp--Q/) <kbd>[issues from this doc](https://github.com/LD4P/biblio-cedar/issues?q=label%3Aquestion)</kbd>
